@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">AD BlackMarket™</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <!--Menu item texts -->
+    <string name="action_settings">Settings</string>
+    <string name="action_search">Search</string>
+    <string name="action_cart">Cart</string>
+    <string name="action_notifications">Notifications</string>
+
+    <string name="item_1">Pistols</string>
+    <string name="item_2">SMG</string>
+    <string name="item_3">Assault Rifles</string>
+    <string name="item_4">Sniper Rifles</string>
+    <string name="item_5">Military Vehicles</string>
+    <string name="item_6">All Weapons</string>
+
+    <string name="my_profile">My Profile</string>
+    <string name="my_rewards">My Rewards</string>
+    <string name="my_orders">My Orders</string>
+    <string name="my_cart">My Cart</string>
+    <string name="my_wishlist">My Wishlist</string>
+    <string name="my_account">My Account</string>
+
+    <string name="help_support">Help \u0026 Support</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="terms_conditions">Terms \u0026 Conditions</string>
+    <string name="help_center">Help Center</string>
+
+    <string name="search_hint">Search for Weapons, Vehicles and More</string>
+
+
+    <!--Intro slider texts -->
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">WEAPON READY !</string>
+    <string name="slide_1_desc">The easiest way to order weapons from your favourite gunshop !
+    </string>
+
+    <string name="slide_2_title">VEHICLES SPAWN</string>
+    <string name="slide_2_desc">Buy Military Vehicles for your comrade and friends !</string>
+
+    <string name="slide_3_title">Great Discounts</string>
+    <string name="slide_3_desc">Best discounts on every single service we offer !</string>
+
+    <string name="slide_4_title">About This App</string>
+    <string name="slide_4_desc">Created by APRIZAL KAMRAN (1015007) and DEO TRIANTAMA (10151013)</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome
+        slider -> clear data
+    </string>
+    <string name="play_again">Play Again</string>
+
+</resources>
